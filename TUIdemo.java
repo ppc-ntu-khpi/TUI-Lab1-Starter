@@ -75,7 +75,7 @@ public class TUIdemo extends TApplication {
                 } else {                    
                     switch (num.charAt(0)) {
                         default: {
-                            details.setText("Owner Name: John Doe\nAccount Type: 'Checking'\nAccount Balance: t$200.00");
+                            details.setText("Owner Name: John Doe\nAccount Type: 'Checking'\nAccount Balance: $200.00");
                         }
                     }
                 }
