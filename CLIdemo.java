@@ -46,7 +46,7 @@ public class CLIdemo {
                 printHelp();
             } else if ("customers".equals(line)) {
                 AttributedStringBuilder a = new AttributedStringBuilder()
-                        .append("\nThis is all of your")
+                        .append("\nThis is all of your ")
                         .append("customers", AttributedStyle.BOLD.foreground(AttributedStyle.RED))
                         .append(":");
 
