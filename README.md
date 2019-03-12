@@ -1,9 +1,9 @@
 # TUI Labs
 ![](terminal-icon.png)
 
-Ці роботи доповнюють цикл лабораторних робіт #1-8 (проект **Banking**, [Netbeans](https://netbeans.org/)) з ООП на третьому курсі [ППК НТУ "ХПІ](http://polytechnic.poltava.ua)". Згадувані роботи містяться в [окремому репозиторії](https://github.com/liketaurus/OOP-JAVA).
+Ці роботи доповнюють цикл лабораторних робіт #1-8 (проект **Banking**, [Netbeans](https://netbeans.org/)) з ООП на третьому курсі [ППК НТУ "ХПІ](http://polytechnic.poltava.ua)". Згадувані роботи розміщено в [окремому репозиторії](https://github.com/liketaurus/OOP-JAVA).
 
-На даний момент в репозиторії містяться **такі роботи**:
+На даний момент цей репозиторій містить **наступні роботи**:
 - робота 1 - [TUI з Jexer](https://github.com/liketaurus/TUI-Labs/blob/master/Lab%201%20-TUI/Lab%201.md)
 - робота 2 - [CLI з jline 3](https://github.com/liketaurus/TUI-Labs/blob/master/Lab%202%20-%20CLI/Lab%202.md)
 
