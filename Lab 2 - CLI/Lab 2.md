@@ -1,5 +1,5 @@
 # Lab 2
-# Создание CLI у стилі REPL з допомогою jline 3
+# Створення CLI у стилі REPL з допомогою jline 3
 Мета роботи - навчитись створювати прості текстові інтерфейси з допомогою популярної бібліотеки [jline 3](https://github.com/jline/jline3).
 
 ![Demo](https://github.com/liketaurus/TUI-Labs/blob/master/Lab%202%20-%20CLI/TUI-Lab-2.PNG)
