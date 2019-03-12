@@ -2,7 +2,7 @@
 # Создание TUI с помощью Jexer
 Цель этой работы - научиться создавать простые текстовые интерфейсы с помощью популярной библиотеки [Jexer](https://gitlab.com/klamonte/jexer).
 
-![Demo](https://github.com/liketaurus/TUI-Labs/blob/master/Lab 1 -TUI/TUI-Lab-1.PNG)
+![Demo](https://github.com/liketaurus/TUI-Labs/blob/master/Lab%201%20-TUI/TUI-Lab-1.PNG)
 
 Для справки:
  - [Документация](https://jexer.sourceforge.io/apidocs/api/overview-summary.html)
