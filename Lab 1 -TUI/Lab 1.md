@@ -4,7 +4,7 @@
 
 ![Demo](https://github.com/liketaurus/TUI-Labs/blob/master/Lab%201%20-TUI/TUI-Lab-1.PNG)
 
-Допоможні матеріали:
+Допоміжні матеріали:
  - [Документація](https://jexer.sourceforge.io/apidocs/api/overview-summary.html)
  - [Вікі з прикладами](https://gitlab.com/klamonte/jexer/wikis/home)
  - [Репозиторій](https://github.com/liketaurus/OOP-JAVA) з класами з усіх попередніх лаб (завдання 'Banking')
