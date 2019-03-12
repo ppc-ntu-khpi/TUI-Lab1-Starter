@@ -12,3 +12,6 @@
 - [для роботи 2](https://github.com/liketaurus/TUI-Labs/blob/master/Lab%202%20-%20CLI/Lab%202%20-%20add.md)
 
 Всі необхідні бібліотеки містяться у теці [jars](https://github.com/liketaurus/TUI-Labs/tree/master/jars). В тому числі - всі необхідні класи з робіт 1-8 - файл [MyBank.jar](https://github.com/liketaurus/TUI-Labs/blob/master/jars/MyBank.jar). Файд даних лежить у теці [data](https://github.com/liketaurus/TUI-Labs/tree/master/data).
+
+---
+**УВАГА! Не забувайте завантажувати результати виконання робіт до своїх репозиторіїв!**
