@@ -113,7 +113,7 @@ public class CLIdemo {
 
     private String readLine(LineReader reader, String promtMessage) {
         try {
-            String line = reader.readLine(promtMessage + "\nshell> ");
+            String line = reader.readLine(promtMessage + "\nbank> ");
             return line.trim();
         } catch (UserInterruptException e) {
             // e.g. ^C
