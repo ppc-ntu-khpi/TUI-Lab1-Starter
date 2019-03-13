@@ -1,4 +1,4 @@
-# TUI Labs
+# UI Labs
 ![](terminal-icon.png)
 
 Ці роботи доповнюють цикл лабораторних робіт #1-8 (проект **Banking**, [Netbeans](https://netbeans.org/)) з ООП на третьому курсі [ППК НТУ "ХПІ](http://polytechnic.poltava.ua)". Згадувані роботи розміщено в [окремому репозиторії](https://github.com/liketaurus/OOP-JAVA).
