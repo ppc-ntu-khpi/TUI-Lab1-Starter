@@ -9,7 +9,7 @@
 - робота 2 - [CLI з jline 3](https://github.com/liketaurus/TUI-Labs/blob/master/Lab%202%20-%20CLI/Lab%202.md)
 - робота 3 - [GUI з Swing](https://github.com/liketaurus/TUI-Labs/blob/master/Lab%203%20-%20SWING/Lab%203.md)
 
-Роботи 4 - **GUI з jGoodies** та 5 - **GUI з JavaFX** будуть додані найближчим часом.
+Роботи 4 - **GUI з Matisse**, 5 - **GUI з JavaFX** та 6 - **GUI з Netbeans Platform** будуть додані найближчим часом.
 
 **Додаткові завдання** (для тих хто зробив все і прагне більшого):
 - [для роботи 1](https://github.com/liketaurus/TUI-Labs/blob/master/Lab%201%20-TUI/Lab%201%20-%20add.md)
