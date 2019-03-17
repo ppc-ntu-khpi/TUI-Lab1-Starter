@@ -30,4 +30,7 @@
 ---
 **УВАГА! Не забувайте завантажувати результати виконання робіт до своїх репозиторіїв!**
 
-![](https://img.shields.io/badge/Made%20at-PPC%20NTU%20%22KhPI%22-blue.svg) ![](https://img.shields.io/badge/Made%20with-%20Netbeans-brightgreen.svg)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
+
+![](https://img.shields.io/badge/Made%20with-%20Netbeans-brightgreen.svg)
+![](https://img.shields.io/badge/Made%20at-PPC%20NTU%20%22KhPI%22-blue.svg) 
