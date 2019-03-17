@@ -20,7 +20,9 @@
   - **якщо у вас Netbeans версії 8.0.X** - встановіть плагіни **Monet - SceneBuilder Designer** та **JavaFX 2 Scene Builder** у звичайний спосіб (**Tools>Plugins>Available Plugins**), або завантажте його з [офіційного каталогу](http://plugins.netbeans.org/plugin/55434/monet-the-javafx-scene-builder-integration) плагінів Netbeans, розпакуйте та встановіть через **Tools>Plugins>Available Plugins>Downloaded>Add Plugins...**. Далі дійте так само - створіть інтерфейс у відповідності до прототипу.
 5. Вивчіть автоматично згенеровані теги у файлі, впевніться, що ви розумієте що вони означають 
 6. Перейдіть до головного класу проекту, який ви створили й у рядку 22 замініть **FXMLDocument.fxml** на **MonetDemo.fxml**. Результат має виглядати так: 
-```` Parent root = FXMLLoader.load(getClass().getResource("MonetDemo.fxml"));````
+```java
+        Parent root = FXMLLoader.load(getClass().getResource("MonetDemo.fxml"));
+```
 7. Натисніть на файлі MonetDemo.fxml у панелі **Projects** правою кнопкою миші, оберіть **Make Controller**
 6. Запустіть проект у звичайний спосіб. Ви маєте побачити вікно, ідентичне до прототипу. Продемонстрируйте результат викладачеві. 
 
