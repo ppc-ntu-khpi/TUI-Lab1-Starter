@@ -14,8 +14,8 @@
 - **JavaFX** GUI:
   - робота 5 - [GUI з JavaFX](https://github.com/liketaurus/TUI-Labs/blob/master/Lab%205%20-%20JavaFX/Lab%205.md)
   - робота 6 - [GUI з Monet](https://github.com/liketaurus/TUI-Labs/blob/master/Lab%206%20-%20Monet/Lab%206.md)
-
-Роботу 7 - **GUI з Netbeans Platform** буде додано найближчим часом.
+- **Netbeans Platform**
+  - робота 7 - [GUI з Netbeans Platform](https://github.com/liketaurus/TUI-Labs/blob/master/Lab%207%20-%20Netbeans%20Platform/Lab%207.md)
 
 **Додаткові завдання** (для тих хто зробив все і прагне більшого):
 - [для роботи 1](https://github.com/liketaurus/TUI-Labs/blob/master/Lab%201%20-TUI/Lab%201%20-%20add.md)
@@ -24,6 +24,7 @@
 - [для роботи 4](https://github.com/liketaurus/TUI-Labs/blob/master/Lab%204%20-%20Matisse/Lab%20-%204%20-%20add.md)
 - [для роботи 5](https://github.com/liketaurus/TUI-Labs/blob/master/Lab%205%20-%20JavaFX/Lab%20-%205%20-%20add.md)
 - [для роботи 6](https://github.com/liketaurus/TUI-Labs/blob/master/Lab%206%20-%20Monet/Lab%206%20-%20add.md)
+- [для роботи 7](https://github.com/liketaurus/TUI-Labs/blob/master/Lab%207%20-%20Netbeans%20Platform/Lab%20-7%20-%20add.md)
 
 Всі необхідні бібліотеки містяться у теці [jars](https://github.com/liketaurus/TUI-Labs/tree/master/jars). В тому числі - всі необхідні класи з робіт 1-8 - файл [MyBank.jar](https://github.com/liketaurus/TUI-Labs/blob/master/jars/MyBank.jar). Файл даних лежить у теці [data](https://github.com/liketaurus/TUI-Labs/tree/master/data).
 
