@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package com.mybank.gui;
 
 import com.mybank.domain.Account;
@@ -13,7 +8,7 @@ import com.mybank.domain.SavingsAccount;
 
 /**
  *
- * @author alexa
+ * @author Alexander 'Taurus' Babich
  */
 public class ClientForm extends javax.swing.JFrame {
 
@@ -274,6 +269,7 @@ public class ClientForm extends javax.swing.JFrame {
         Account firstAccount = Bank.getCustomer(customerNumber).getAccount(0);
         String accType = firstAccount instanceof SavingsAccount ? "Savings" : "Checking";
         outputArea.append("\n Account type: " + accType + "\n Account Balance: $" + firstAccount.getBalance());
+        infoField.setText("READY!");
     }//GEN-LAST:event_balanceButtonActionPerformed
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
@@ -345,6 +341,7 @@ public class ClientForm extends javax.swing.JFrame {
             amount = Double.parseDouble(mainField.getText());
             Bank.getCustomer(customerNumber).getAccount(0).deposit(amount);
             balanceButtonActionPerformed(evt);
+            infoField.setText("READY!");
         } catch (Exception e) {
             mainField.setText("");
             infoField.setText("ERROR! Invalid amount! Try again...");
@@ -357,6 +354,7 @@ public class ClientForm extends javax.swing.JFrame {
             amount = Double.parseDouble(mainField.getText());
             Bank.getCustomer(customerNumber).getAccount(0).withdraw(amount);
             balanceButtonActionPerformed(evt);
+            infoField.setText("READY!");
         } catch (OverDraftAmountException ex) {
             mainField.setText("");
             infoField.setText("ERROR! Deficit is $"+ex.getDeficit()+"! Try again...");
@@ -373,7 +371,7 @@ public class ClientForm extends javax.swing.JFrame {
             if (customerNumber >= Bank.getNumberOfCustomers()) {
                 throw new Exception();
             }
-            infoField.setText("Client loaded!");
+            infoField.setText("READY! Client loaded!");
             outputArea.setText("Client ID: " + customerNumber + "\nClient name: " + Bank.getCustomer(customerNumber).getLastName()
                     + ", " + Bank.getCustomer(customerNumber).getFirstName());
             balanceButton.setEnabled(true);
