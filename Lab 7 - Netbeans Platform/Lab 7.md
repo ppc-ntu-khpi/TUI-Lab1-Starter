@@ -2,7 +2,7 @@
 # Створення GUI з допомогою Matisse та Netbeans Platform
 Мета роботи - навчитись створювати прості графічні інтерфейси з допомогою Netbeans Swing GUI Builder ([Matisse](https://netbeans.org/features/java/swing.html)) і використовувати готову інфраструктуру [Netbeans Platform](https://netbeans.org/features/platform/)  
 
-![Demo](https://github.com/liketaurus/TUI-Labs/blob/master/Lab%204%20-%20Matisse/GUI-Lab-7.PNG)
+![Demo](https://github.com/liketaurus/TUI-Labs/blob/master/Lab%207%20-%20Netbeans%20Platform/GUI-Lab-7.PNG)
 
 Допоміжні матеріали:
 - [Документація](http://bits.netbeans.org/dev/javadoc/)
