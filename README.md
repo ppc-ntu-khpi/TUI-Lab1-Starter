@@ -11,7 +11,7 @@
 Всі необхідні бібліотеки містяться у теці [jars](https://github.com/ppc-ntu-khpi/TUI-Lab1-Starter/tree/master/jars). В тому числі - всі необхідні відкомпільовані класи з робіт 1-8 - файл [MyBank.jar](https://github.com/ppc-ntu-khpi/TUI-Lab1-Starter/blob/master/jars/MyBank.jar). Файл даних лежить у теці [data](https://github.com/ppc-ntu-khpi/TUI-Lab1-Starter/tree/master/data).
 
 ---
-**УВАГА! Не забуваємо здвати завдання через Google Classroom та вказувати посилання на створений для вас репозиторій!**
+**УВАГА! Не забуваємо здавати завдання через Google Classroom та вказувати посилання на створений для вас репозиторій!**
 
 І дуже раджу спробувати нову фічу - інтеграцію з IDE REPL.it!
 
